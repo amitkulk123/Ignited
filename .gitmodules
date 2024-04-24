@@ -10,9 +10,6 @@
 [submodule "Cores/GBADeltaCore"]
 	path = Cores/GBADeltaCore
 	url = https://github.com/LitRitt/GBADeltaCore.git
-[submodule "Cores/GBCDeltaCore"]
-	path = Cores/GBCDeltaCore
-	url = https://github.com/LitRitt/GBCDeltaCore.git
 [submodule "External/Harmony"]
 	path = External/Harmony
 	url = https://github.com/rileytestut/Harmony.git
@@ -37,3 +34,6 @@
 [submodule "Cores/mGBADeltaCore"]
 	path = Cores/mGBADeltaCore
 	url = https://github.com/LitRitt/mGBADeltaCore.git
+[submodule "Cores/GBCDeltaCore"]
+	path = Cores/GBCDeltaCore
+	url = https://github.com/amitkulk123/GBCIgnitedCore.git
