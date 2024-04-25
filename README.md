@@ -10,10 +10,7 @@ Clone this repo and run
 ```
 git submodule update --init --recursive
 ```
-If needed, you may need to include the remote option as well and in that case run:
-```
-git submodule update --init --recursive --remote
-```
+
 After updating the submodules, proceed to change the Xcode Bundle Identifier as usual in the steps below.
 
 # Ignited Emulator
