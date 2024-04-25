@@ -1,6 +1,6 @@
-This is my fork of Ignited with a fix for Gambatte limitation. 
+This is my fork (made a separate repo since github doesn't allow multiple forks of same repo) of Ignited with a fix for Gambatte limitation. 
 
-The only change in this fork is that `Cores\GBCDeltaCore` points to my own [GBCDeltaCore](https://github.com/amitkulk123/GBCDeltaCore) that has a fix for `cartridge.cpp` in the way that it handles 128KiB memory.
+The only change in this fork is that `Cores\GBCDeltaCore` points to my own [GBCIgnitedCore](https://github.com/amitkulk123/GBCIgnitedCore) that has a fix for `cartridge.cpp` in the way that it handles 128KiB memory.
 
 This matters because certain ROMs like lsdj require 128 KiB of memory otherwise it wouldn't show the load/save option.
 
